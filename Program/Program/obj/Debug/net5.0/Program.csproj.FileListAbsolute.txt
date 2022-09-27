@@ -1,0 +1,16 @@
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\bin\Debug\net5.0\Program.exe
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\bin\Debug\net5.0\Program.deps.json
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\bin\Debug\net5.0\Program.runtimeconfig.json
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\bin\Debug\net5.0\Program.dll
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\bin\Debug\net5.0\Program.pdb
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\obj\Debug\net5.0\Program.dll
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\obj\Debug\net5.0\refint\Program.dll
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\obj\Debug\net5.0\Program.pdb
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache
+D:\작업폴더\Visual-Studio_DotNet\Program\Program\obj\Debug\net5.0\ref\Program.dll
